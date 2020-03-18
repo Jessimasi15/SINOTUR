@@ -1,0 +1,130 @@
+*{
+	margin: auto;
+	padding: auto;
+	font-family: Arial;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background: #F2F2F2;
+}
+
+/*Formulario*/
+table {
+	/*margin: auto;
+	padding: auto; */
+	font-size: 15px;
+	font-weight: bold;
+}
+
+td {
+	height: 30px;
+}
+
+input {
+	width: 250px;
+	height: 40px;
+}
+
+select {
+	width: 250px;
+	height: 40px;
+}
+
+.principal {
+	width: 200px;
+	height: 50px;
+	margin: 20px auto;
+}
+
+.nuevo {
+	width: 200px;
+	height: 50px;
+	margin: 20px auto;
+}
+
+h2 {
+	font-size: 20px;
+    padding: auto;
+}
+
+
+p, ul, li, nav { 
+    padding:0;
+    margin:0; 
+}
+
+.radio {
+	height: 5px;
+	width: 18px;
+}
+
+.volver {
+	width: 200px;
+	height: 50px;
+	margin: 20px auto;
+}
+
+#principal {
+	background-color: white;
+}
+
+/* Imagén Logo de Fontur*/
+#img1_bienv {
+    height: 150px;
+    margin: 10px 150px 10px 325px;
+}
+
+.mas, .menos {
+	width: 50px;
+	height: 40px;
+}
+
+.info {
+	font-size: 17px;
+}
+
+/*Imagén Repuestos*/
+#img2_bienv {
+    height: 300px;
+    padding: 20px 200px;
+}
+
+/* Los que deberian ser texarea */
+.text {
+	height: 100px;
+	width: 250px;
+}
+
+/*Menú vertical desplegable 2*/
+.well h2 {
+    text-align: center;
+}
+
+.glyphicon { 
+    margin-right:10px; 
+}
+
+#accordion {
+    text-align: left;
+    margin-left: 20px;
+    margin-right:10px; 
+}
+
+.panel-title {
+    font-weight: bold;
+}
+
+.panel-body { 
+    padding:0px;
+}
+
+.panel-body table tr td { 
+    padding-left: 15px; 
+}
+
+.panel-body .table {
+    margin-bottom: 0px; 
+}
+
